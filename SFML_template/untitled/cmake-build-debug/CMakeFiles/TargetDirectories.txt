@@ -1,3 +1,0 @@
-/home/bps/CLionProjects/untitled/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/bps/CLionProjects/untitled/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/bps/CLionProjects/untitled/cmake-build-debug/CMakeFiles/mysfml.dir
