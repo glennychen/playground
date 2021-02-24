@@ -1,0 +1,17 @@
+#include <iostream>
+
+using namespace std;
+
+class wrinkle {
+public:
+  wrinckle(int i): a(++i), b(++i), c(++i) {cout << a<< b<< c;}
+private:
+  int a;
+  int c;
+  int b;
+};
+int main()
+{
+  wrinke(0);
+  return 0;
+}
